@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:100');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    font-weight:300;
+  }
+
+a {
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.header-cuppon {
+    background-color: #28a745;
+}
+
+.color-link-nav-grey {
+    color: #ced4d9;
+    opacity: 0.7;
+}
+
+.color-link-nav-light-grey {
+    color: #ced4d9;
+    opacity: 0.5;
+}
+
+.offert-cuppon {
+    color: #28a745;
+    font-weight: 400;
+}
+
+.opt-in-bg {
+    background-color: #28a745;
+}
+
+.description-footer-cuppon {
+    color: grey;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+.font-footer-cuppon {
+    font-weight: 700;
+}
+
+.portrait-layer {
+    background-image: url('../IMAGES/Parque_Nacional_do_Monte_Roraima.jpeg');
+    background-repeat: none;
+    background-size: cover;
+}
+
+.portrait-layer1 {
+    background-image: url('../IMAGES/Angel_jump_waterfall.jpeg');
+    background-repeat: none;
+    background-size: cover;
+}
+
+.portrait-layer2 {
+    background-image: url('../IMAGES/Morrocoy_archipelago_national_park.jpeg');
+    background-repeat: none;
+    background-size: cover;
+}
+
+.portrait-layer3 {
+    background-image: url('../IMAGES/Delta_amacuro_national_park.jpeg');
+    background-repeat: none;
+    background-size: cover;
+}
+
+.portrait-layer4 {
+    background-image: url('../IMAGES/Espejo_peak_merida.png');
+    background-repeat: none;
+    background-size: cover;
+}
+
+.portrait-layer5 {
+    background-image: url('../IMAGES/turen_sunflowers.jpeg');
+    background-repeat: none;
+    background-size: cover;
+}
+
+.b-purchase {
+    background-color: #28a745;
+    color: #fff;
+    transition: all 0.3s cubic-bezier(0.455, 0.03, 0.515, 0.955);
+}
+
+.b-purchase:hover {
+    background-color:#198754;
+    color: #f8f9fa;
+    transform: translateY(2px);
+}
+
+.title-experience-cuppon {
+    font-family: 'Roboto';
+    font-weight: 800;
+}
